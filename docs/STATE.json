@@ -1,8 +1,9 @@
 {
-  "project": "netshtrafa",
+  "name": "netshtrafa",
   "unit": "netshtrafa.service",
+  "path": "/root/projects/netshtrafa",
   "status": "Active",
   "branch": "main",
-  "origin": "git@github.com:Alexandr123456098/netshtrafa.git",
+  "origin": "git@github.com:Alexandr123456098/NetShtrafa.git",
   "dirty": "clean"
 }
